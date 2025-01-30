@@ -95,4 +95,12 @@ To avoid overwhelming WHOIS servers, the script:
 
 - Comments and remarks from WHOIS output are filtered out
 - Empty fields in the CSV output indicate that the information was not available in the WHOIS data
-- If an IP fails all retry attempts, it will be marked with "ERROR" in all fields in the CSV 
+- If an IP fails all retry attempts, it will be marked with "ERROR" in all fields in the CSV
+
+## Licensing
+
+The tool is licensed under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+## Legal disclaimer
+
+Usage of this tool to interact with targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
